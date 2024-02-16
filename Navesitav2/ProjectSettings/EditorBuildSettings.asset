@@ -1,0 +1,14 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!1045 &1
+EditorBuildSettings:
+  m_ObjectHideFlags: 0
+  serializedVersion: 2
+  m_Scenes: []
+  m_configObjects:
+    com.unity.adaptiveperformance.loader_settings: {fileID: 11400000, guid: a900fe36f09ccfe4e8898d0310fe24d9,
+      type: 2}
+    com.unity.adaptiveperformance.simulator.provider_settings: {fileID: 11400000,
+      guid: 4559733c637d94241ba1a29122fb27a1, type: 2}
+    com.unity.input.settings: {fileID: 11400000, guid: 11a1f3a664476ce45948fb8dd121abac,
+      type: 2}
