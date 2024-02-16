@@ -60,7 +60,7 @@ public class GameManager : MonoBehaviour
 
      //   GameOver.SetActive(false);
         //cameraMenu.SetActive(false);
-
+        //SI NO SALE ESTO SOY PUTO
  
 
 
