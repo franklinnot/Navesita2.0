@@ -33,7 +33,7 @@ public class GameManager : MonoBehaviour
 
     public bool IsPlaying=false;
 
-
+    //asas
 
     // Start is called before the first frame update
     private void Start()
